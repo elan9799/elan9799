@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elan9799
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java (13/07/2021)
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on (have no clue)
 - 📫 How to reach me via discord (elan#1883)
 
